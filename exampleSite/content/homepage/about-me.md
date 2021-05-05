@@ -1,13 +1,31 @@
 ---
-title: "About Me"
+title: "Group Members"
 weight: 3
 header_menu: true
 ---
 
-![Jane Doe](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
 
-##### Professionel Experience
 
-A lot, but let us get into the details with some lorem ipsum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent feugiat lectus et magna placerat tincidunt. Nullam sit amet lectus vitae elit mollis rhoncus non eget lorem. Ut tempor sed dui quis volutpat.
 
-In ultrices, est at lobortis pretium, magna quam mollis neque, id viverra odio est sit amet lorem. Mauris efficitur nunc vel lectus porttitor, sit amet sodales quam eleifend. Duis et felis ut mauris dignissim efficitur. Aliquam non sem eros. Integer elit ante, bibendum id hendrerit vitae, vestibulum eget risus. Nunc efficitur nisl in iaculis vestibulum.
+## Group Leaders
+
+##### Prof. Dr. med. Meinrad Beer, Direktor der Klinik für Diagnostische & Interventionelle Radiologie Uniklinikum Ulm
+
+{{< imagewithtext img="/images/beer.jpg"  link="https://www.uniklinik-ulm.de/radiologie-diagnostische-und-interventionelle/team/prof-dr-m-beer.html">}}
+
+##### Prof. Dr. rer-nat. Timo Ropinski, Leiter Forschungsgruppe Visual Computing an der Universität Ulm 
+
+{{< imagewithtext img="/images/ropinski.png" link="https://www.uni-ulm.de/in/mi/institut/mitarbeiter/timo-ropinski/">}}
+
+## PHD Students
+
+##### Marc Fabian Mezger, M.Sc. Medizinische Informatik
+{{< imagewithtext img="/images/mezger.png"  >}}
+
+##### Daniel Wolf, M.Sc. Elektrotechnik
+{{< imagewithtext img="/images/wolf.jpg"  >}}
+##### Lillimo Aubele, M.Sc Mathematik
+{{< imagewithtext img="/images/aubele.jpg"  >}}
+
+
+
