@@ -4,11 +4,6 @@ weight: 3
 header_menu: true
 ---
 
-
-
-
-## Group Leaders
-
 ##### Prof. Dr. med. Meinrad Beer, Direktor der Klinik für Diagnostische & Interventionelle Radiologie Uniklinikum Ulm
 
 {{< imagewithtext img="/images/beer.jpg"  link="https://www.uniklinik-ulm.de/radiologie-diagnostische-und-interventionelle/team/prof-dr-m-beer.html">}}
@@ -20,7 +15,7 @@ header_menu: true
 ## PHD Students
 
 ##### Marc Fabian Mezger, M.Sc. Medizinische Informatik
-{{< imagewithtext img="/images/mezger.png"  >}}
+{{< imagewithtext img="/images/mezger.png" link="https://github.com/mfmezger" >}}
 
 ##### Daniel Wolf, M.Sc. Elektrotechnik
 {{< imagewithtext img="/images/wolf.jpg"  >}}
