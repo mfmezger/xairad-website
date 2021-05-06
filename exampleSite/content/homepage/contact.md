@@ -6,5 +6,6 @@ header_menu: true
 
 {{<icon class="fa fa-envelope">}}&nbsp;[marc.mezger@uni-ulm.de](mailto:marc.mezger@uni-ulm.de)
 
+{{<icon class="fa fa-envelope">}}&nbsp;[daniel.wolf@uniklinik-ulm.de](mailto:daniel.wolf@uniklinik-ulm.de)
 
-Nehmen Sie gerne Kontakt mit uns auf!
+Please feel free to contact us!

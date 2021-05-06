@@ -20,7 +20,11 @@ header_menu: true
 - Head of the Visual Computing Research Group at the University of Ulm, Germany.
 - His research focuses on the following areas
 
+## Project Partners
 
+#### Prof. Dr. Hans Kestler
+
+{{< imagewithtext img="/images/kestler.png" link="">}}
 
 
 ## PHD Students
