@@ -8,7 +8,7 @@ header_menu: true
 
 {{< imagewithtext img="/images/beer.jpg"  link="https://www.uniklinik-ulm.de/radiologie-diagnostische-und-interventionelle/team/prof-dr-m-beer.html">}}
 
-##### Prof. Dr. rer-nat. Timo Ropinski, Leiter Forschungsgruppe Visual Computing an der Universität Ulm 
+##### Prof. Dr. rer-nat. habil. Timo Ropinski, Leiter Forschungsgruppe Visual Computing an der Universität Ulm 
 
 {{< imagewithtext img="/images/ropinski.png" link="https://www.uni-ulm.de/in/mi/institut/mitarbeiter/timo-ropinski/">}}
 
