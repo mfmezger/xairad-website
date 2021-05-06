@@ -3,6 +3,6 @@ title: "Welcome"
 weight: 1
 ---
 
-XAIRAD ist eine Kooperation der {{< links link="https://www.uniklinik-ulm.de/radiologie-diagnostische-und-interventionelle.html" text="Klinik für Interventionelle und Diagnostische Radiologie des Uniklinikum Ulms" >}}
-und des {{< links link="https://www.uni-ulm.de/in/mi/mi-forschung/viscom/" text="Instituts für Visual Computing der Universität Ulm." >}}
-Die Ziel dieser Kooperation sind es Ärzte und mediznisches Personal durch Künstliche Intelligenz zu unterstützen.
+XAIRAD is a cooperation between the {{< links link="https://www.uniklinik-ulm.de/radiologie-diagnostische-und-interventionelle.html" text="Department of Interventional and Diagnostic Radiology at Ulm University Hospital" >}}
+and the {{< links link="https://www.uni-ulm.de/in/mi/mi-forschung/viscom/" text="Institute for Visual Computing at Ulm University." >}}
+The goal of this cooperation is to support physicians and medical staff through artificial intelligence.
