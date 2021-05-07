@@ -1,4 +1,4 @@
-baseURL = "http://mi-dyn09.informatik.uni-ulm.de/"
+baseURL = "https://xairad.informatik.uni-ulm.de/"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
