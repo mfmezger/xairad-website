@@ -26,6 +26,9 @@ Another aim is to make the data available for use with epidemiological early war
 The PI on this project is Prof. Dr. Meinrad Beer, Co-Pl Timo Ropinski.
 
 Cooperation Partners: Prof. Dr. Meinrad Beer, Ulm Medical Center, Charité Berlin
+
+[RACOON Homepage](https://www.netzwerk-universitaetsmedizin.de/projekte/racoon)
+
 Project Duration: 2020-2021.
 
 ---
@@ -35,4 +38,8 @@ Both prostate carcinoma in men and breast carcinoma (mainly) in women are the mo
 All four radiological project partners have already established the so-called multiparametric MRI (= magnetic resonance imaging) of the prostate as a standard procedure and cooperate accordingly with their respective partners from urology and pathology. Likewise, all four project partners have intensive experience in the diagnosis of breast cancer with all imaging methods available for this purpose, such as mammography, ultrasound and dynamic (contrast agent-assisted) MRI. All radiological partners perform imaging of the female breast in appropriate clinical collaboration with gynecology and pathology. In summary, this results in a maximum of project-related preliminary work and competence. The combination of the four project partners for this project ensures above all that, in addition to the high level of expertise, a high number of validated data sets can be obtained quickly. The goal is to develop a disease-specific AI program for high-precision tumor diagnostics.
 
 
-Cooperation Partners: Prof. Dr. Meinrad Beer, Ulm Medical Center, University Hospitals of  Germany
+Cooperation Partners: Prof. Dr. Meinrad Beer, Ulm Medical Center, 
+
+[Project Homepage](https://www.forum-gesundheitsstandort-bw.de/projekte/mwk/verbesserung-der-krankenversorgung-bei-prostata-und-brustkrebs-durch-validierte-diagnostik-und-kuenstliche-intelligenz)
+
+Clinics: University Hospitals of Ulm, Tübingen, Freiburg and Hospital Stuttgart.
