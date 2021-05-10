@@ -45,6 +45,7 @@ Research Focus:
 - Explainable AI
 - Denoising of Medical Images.
 - Visualization of Medical Data.
+- Biomarker Research
 
 ##### Daniel Wolf, M.Sc. Electrical engineering
 {{< imagewithtext img="/images/wolf.jpg"  >}}
@@ -58,5 +59,8 @@ Reserach Focus:
 ##### Lillimo Aubele, M.Sc Mathematics
 {{< imagewithtext img="/images/aubele.jpg"  >}}
 
-
+Reserach Focus:
+- Biomarker research 
+- Medical Imaging Analysis with Deep Learning
+- Explainable AI
 
