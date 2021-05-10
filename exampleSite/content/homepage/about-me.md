@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-##### Prof. Dr. med. Meinrad Beer, Director of the Clinic for Diagnostic & Interventional Radiology Ulm University Hospital
+##### Prof. Dr. med. Meinrad Beer, Director of the Clinic for Diagnostic & Interventional Radiology at Ulm University Medical Center
 
 {{< imagewithtext img="/images/beer.jpg"  link="https://www.uniklinik-ulm.de/radiologie-diagnostische-und-interventionelle/team/prof-dr-m-beer.html">}}
 
@@ -17,10 +17,18 @@ Prof. Dr. Meinrad Beer is the Medical Director of the Department of Diagnostic a
 {{< imagewithtext img="/images/ropinski.png" link="https://www.uni-ulm.de/in/mi/institut/mitarbeiter/timo-ropinski/">}}
 Prof. Ropinski heads the Visual Computing Group at Ulm University. Before moving to Ulm, he was Professor in Interactive Visualization at Linköping University in Sweden where he was heading the Scientific Visualization Group. Prof. Ropinski has received his Ph.D. in computer science in 2004 from the University of Münster, where he has also completed his habilitation in 2009.
 
-The focus of the Visual Computing Group is on interactive visualization and visual analytics, whereby new insights are derived from existing data. Therefore, we develop and evaluate visual data analysis methods to make big and complex data comprehensible. Our results are new algorithms and interactive software. We apply our work in medicine and the natural sciences (astronomy, biology and physics) as well as in areas such as cultural heritage and disaster management. 
-
+The focus of the Visual Computing Group is on interactive visualization and visual analytics, whereby new insights are derived from existing data. Therefore, we develop and evaluate visual data analysis methods to make big and complex data comprehensible. Our results are new algorithms and interactive software. We apply our work in medicine and the natural sciences (astronomy, biology and physics) as well as in areas such as cultural heritage and disaster management.
 
 ## Project Partners
+
+#### Prof. Dr. med.  Ambros J. Beer, Head of the Department of Nuclear Medicine at Ulm University Medical Center
+
+{{< imagewithtext img="/images/abeer.png" link="https://www.uniklinik-ulm.de/nuklearmedizin/team/prof-dr-a-beer.html">}}
+
+Prof. A. Beer focuses his research on Molecular imaging, hybrid imaging including PET/MR and PET/CT and imaging of angiogenesis. He is 
+President of the Southwest German Society for Nuclear Medicine and is the head of the Nuclear Medicine at Ulm University Medical  Center.
+
+
 
 #### Prof. Dr. Hans Kestler
 
@@ -32,8 +40,21 @@ The focus of the Visual Computing Group is on interactive visualization and visu
 ##### Marc Fabian Mezger, M.Sc. Medical Computer Science
 {{< imagewithtext img="/images/mezger.png" link="https://github.com/mfmezger" >}}
 
+Research Focus:
+- Medical Imaging Analysis with Deep Learning
+- Explainable AI
+- Denoising of Medical Images.
+- Visualization of Medical Data.
+
 ##### Daniel Wolf, M.Sc. Electrical engineering
 {{< imagewithtext img="/images/wolf.jpg"  >}}
+
+Reserach Focus:
+- Biomarker research 
+- Medical Imaging Analysis with Deep Learning
+- Explainable AI
+
+
 ##### Lillimo Aubele, M.Sc Mathematics
 {{< imagewithtext img="/images/aubele.jpg"  >}}
 

@@ -9,3 +9,6 @@ header_menu: true
 {{<icon class="fa fa-envelope">}}&nbsp;[daniel.wolf@uniklinik-ulm.de](mailto:daniel.wolf@uniklinik-ulm.de)
 
 Please feel free to contact us!
+
+[Impressum](https://www.uni-ulm.de/rechtliche-hinweise/impressum/)
+
