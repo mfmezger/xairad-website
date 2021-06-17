@@ -16,3 +16,4 @@ Please feel free to contact us!
 
 [Impressum](https://www.uni-ulm.de/rechtliche-hinweise/impressum/)
 
+[Image](https://pixabay.com/illustrations/artificial-intelligence-brain-think-3382507/) thanks to [Gerd Altmann](https://pixabay.com/users/geralt-9301/)
