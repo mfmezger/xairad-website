@@ -1,5 +1,5 @@
 ---
-title: "Group Members"
+title: "Group Lead"
 weight: 3
 header_menu: true
 ---
@@ -19,6 +19,9 @@ Prof. Ropinski heads the Visual Computing Group at Ulm University. Before moving
 
 The focus of the Visual Computing Group is on interactive visualization and visual analytics, whereby new insights are derived from existing data. Therefore, we develop and evaluate visual data analysis methods to make big and complex data comprehensible. Our results are new algorithms and interactive software. We apply our work in medicine and the natural sciences (astronomy, biology and physics) as well as in areas such as cultural heritage and disaster management.
 
+
+
+
 ## Project Partners
 
 #### Prof. Dr. med.  Ambros J. Beer, Head of the Department of Nuclear Medicine at Ulm University Medical Center
@@ -35,6 +38,18 @@ President of the Southwest German Society for Nuclear Medicine and is the head o
 {{< imagewithtext img="/images/kestler.png" link="">}}
 
 
+
+## Medical Doctors
+
+
+##### Dr. Catharina Lisson, Head of Division Oncological Imaging / Thoracic Imaging
+{{< imagewithtext img="/images/lisson.jpg" link="https://www.uniklinik-ulm.de/radiologie-diagnostische-und-interventionelle/forschung/ag-onkologie.html" >}}
+
+Dr Lisson's research focuses on multiparametric analysis of tumour heterogeneity.
+
+
+
+
 ## PHD Students
 
 ##### Marc Fabian Mezger, M.Sc. Medical Computer Science
@@ -43,12 +58,12 @@ President of the Southwest German Society for Nuclear Medicine and is the head o
 Research Focus:
 - Medical Imaging Analysis with Deep Learning
 - Explainable AI
-- Denoising of Medical Images.
-- Visualization of Medical Data.
-- Biomarker Research
+- Denoising and Super Resolution of Medical Images.
+- Radiomics
+
 
 ##### Daniel Wolf, M.Sc. Electrical engineering
-{{< imagewithtext img="/images/wolf.jpg"  >}}
+{{< imagewithtext img="/images/wolf.jpg" link="https://github.com/Wolfda95" >}}
 
 Reserach Focus:
 - Biomarker research 
